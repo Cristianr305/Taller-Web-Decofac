@@ -1,0 +1,71 @@
+header {
+    height: 110px;
+}
+
+nav {
+    height: 100px;
+}
+
+.card {
+    width: 400%;
+    height: 400px;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.logo1 {
+    border-radius: 50%;
+}
+
+.card-group {
+    height: 700px;
+}
+
+footer {
+    height: 300px;
+}
+
+.Informacion {
+    height: 100px;
+}
+
+.titulo-centro {
+  text-align: center;
+}
+.centrado {
+  text-align: center;
+}
+
+.card-title {
+    margin-left: 14rem;
+}
+
+p {
+    margin-left: 14rem;
+
+}
+
+p.contact-info {
+    text-align: center;
+}
+
+iframe {
+    margin: auto;
+}
+
+.w-100 {
+    width: 40% !important;
+    margin: auto;
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+    max-width: 960px;
+}
